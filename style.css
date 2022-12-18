@@ -172,3 +172,17 @@ html{
         transform: translateY(110vh) ;
     }
 }
+
+.footer{
+    text-align: center;
+    width: 100%;
+    max-width: 500px;
+    color: #fff;
+    position: fixed;
+    bottom: 17px;
+    left: 50%;
+    transform: translate(-50%, 0);
+}
+.footer a{
+    color: rgb(0, 82, 158);
+}
